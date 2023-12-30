@@ -12,6 +12,8 @@ See [Contributing](./CONTRIBUTING.md) for a general overview of how to contribut
 
 ### Table of Contents
 
+
+- [wst - my st terminal fork](https://raw.githubusercontent.com/wakodiwe/void-packages/master/srcpkgs/wst/)
 - [Requirements](#requirements)
 - [Quick start](#quick-start)
 - [chroot methods](#chroot-methods)
