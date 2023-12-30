@@ -10,8 +10,7 @@ short_desc="Wako's imple terminal (st-0.9)"
 maintainer="Wako Diwe <wakodiwe@gmail.com>"
 license="MIT"
 homepage="https://github.com/wakodiwe/wst"
-# distfiles="https://github.com/wakodiwe/wst/archive/refs/tags/${pkgname}-${version}.tar.gz"
-distfiles="http://localhost/wst-0.9.tar.gz"
+distfiles="https://github.com/wakodiwe/wst/archive/refs/tags/${pkgname}-${version}.tar.gz"
 checksum=b090a335772a85f9784b60f493a1c938442ab2450584cfa6fa9f28877af95c47
 
 post_install() {
