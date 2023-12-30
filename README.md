@@ -10,10 +10,11 @@ or queried through the `xbps-install(1)` and `xbps-query(1)` utilities, respecti
 See [Contributing](./CONTRIBUTING.md) for a general overview of how to contribute and the
 [Manual](./Manual.md) for details of how to create source packages.
 
-### Table of Contents
-
+### void-packages.d
 
 - [wst - my st terminal fork](https://raw.githubusercontent.com/wakodiwe/void-packages/master/srcpkgs/wst/)
+
+### Table of Contents
 - [Requirements](#requirements)
 - [Quick start](#quick-start)
 - [chroot methods](#chroot-methods)
