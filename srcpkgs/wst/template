@@ -11,7 +11,7 @@ maintainer="Wako Diwe <wakodiwe@gmail.com>"
 license="MIT"
 homepage="https://github.com/wakodiwe/wst"
 distfiles="https://github.com/wakodiwe/wst/archive/refs/tags/${pkgname}-${version}.tar.gz"
-checksum=b090a335772a85f9784b60f493a1c938442ab2450584cfa6fa9f28877af95c47
+checksum=f02f5fb784165b096e9bfeab030128b67265c492d46cb99f1d0a1b3f236e1817
 
 post_install() {
 	vdoc README.md
